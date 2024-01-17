@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
+
 <h1 align="center"> Lista de tarefaas simples </h1>
 É uma aplicação bem simples com funcionalidades como; escrever tarefas, buscar, completar, apagar e fazer filtro
 Com um visual simples voltado pra uma pegada mais empresarial com um toque sutil, e é muito fácil de usar
@@ -32,4 +32,4 @@ Usei nele; Vite.js, javaScript+SWC, javaScript JSX
 
   > :construction: Projeto se encontra reformas, porém pode ser usado :construction:
 
->>>>>>> 4cf05880e736ffced41c5e568633558249347690
+
