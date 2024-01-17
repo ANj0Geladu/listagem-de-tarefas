@@ -11,9 +11,14 @@ Usei nele; Vite.js, javaScript+SWC, javaScript JSX
 
 
 <h3 align="center">PRÓPOSITO FUTUROS</h3>
-<p>implementar sistemas de páginas e rotas, e banco de dados pra usuário
+<p>Implementar sistemas de routes</p>
+<p>Criação de cadastramento de usuários<p/>
+<p>Navegação interna<p/>
+<p>Banco de dados SQL<p/>
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+  > :construction: Projeto se encontra reformas, porém pode ser usado :construction:
 
